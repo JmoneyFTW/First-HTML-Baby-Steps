@@ -1,0 +1,20 @@
+nav a {
+    margin: 0px;
+    padding: 5px;
+    display: inline-block;
+}
+
+.navbar{
+        margin: 0px;
+        padding: 5px;
+        display: inline-block;
+    }
+
+    body{
+        padding: auto;
+        margin: 10px;
+    }
+
+    footer{
+        text-align: center;
+    }
